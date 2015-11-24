@@ -10,3 +10,4 @@ review the git lesson ---
 
 modify on my new branch.
 chg on my first dev branch
+changes made on other people
